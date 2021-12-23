@@ -16,6 +16,7 @@ I am a mechanical engineering engineer by profession. I decided to start learnin
 + Git
 * * *
 ## Code Example
+* * * 
     <ul style="font-size: 22px; line-height: 50px; letter-spacing: 2px">
         <li><a href="#visiting">Visiting</a></li>
         <li><a href="#explore">Explore</a></li>
