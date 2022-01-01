@@ -55,7 +55,7 @@ body{
 }
 
 .nav_link:hover {
-    color: rgb(108, 99, 236);
+    color: black;
 }
 
 .ul_text{
@@ -138,11 +138,18 @@ h6 {
     font-weight: 700;
     text-transform: uppercase;
     text-align: center;
+   
 }
 
 .section_text {
     font-size: 1.56em;
     font-weight: 400;
+}
+
+.inline {
+    display: flex;
+    justify-content: space-between;
+   
 }
 
 
@@ -158,13 +165,16 @@ h6 {
 }
 
 .svg {
-    width: 10%;
+    width: 50%;
 }
 
 .midle {
-    margin: 0 auto;
+    
+    background-color: rgb(145, 196, 174);
+}
+
+.footer_mid {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(145, 196, 174);
 }
